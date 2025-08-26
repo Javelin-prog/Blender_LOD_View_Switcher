@@ -11,7 +11,7 @@ A Blender add-on for quickly switching Level of Detail (LOD) object visibility d
 
 ## Installation
 
-1. Download the zip file from the latest release 
+1. Download the zip file from the [latest release](https://github.com/Javelin-prog/Blender_LOD_View_Switcher/releases/tag/stable-release)
 2. Open Blender
 3. Go to `Edit` > `Preferences` > `Add-ons` > `drop-down arrow`
 4. Click `Install...` and select the ZIP file you downloaded
