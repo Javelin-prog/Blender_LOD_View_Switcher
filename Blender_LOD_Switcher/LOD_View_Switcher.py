@@ -100,7 +100,7 @@ def register():
 
     # Scene properties
     bpy.types.Scene.active_lod = bpy.props.IntProperty(default=-1)
-    bpy.types.Scene.lod_buttons_expanded = bpy.props.BoolProperty(default=True)
+    bpy.types.Scene.lod_buttons_expanded = bpy.props.BoolProperty(default=False)
 
 def unregister():
     bpy.types.VIEW3D_HT_header.remove(draw_lod_buttons)
